@@ -13,3 +13,8 @@
 Vì vậy, cơ hội việc làm và sự phát triển trong lĩnh vực này là rất lớn.
 
 3. Viết một ứng dụng có UI như sau đẩy lên GitHub
+
+   Ảnh chụp sản phẩm
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8f88a47-9ba2-46ed-ad7c-420b5b07dfaf" />
+
